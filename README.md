@@ -62,7 +62,9 @@ Through this project, I learned how to:
 3. **PUT Request** – Replace post data using chained `postId`  
 4. **PATCH Request** – Partially update a post  
 5. **DELETE Request** – Delete a post and clear environment variables  
-6. **Negative Test** – Test invalid endpoint and assert failure intentionally  
+6. **Negative Test** – Test invalid endpoint and assert failure intentionally
+
+Executed request one by one and attached screenshot of output in screenshots folder attached in github repo.
 
 ---
 
