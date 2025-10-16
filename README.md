@@ -8,7 +8,7 @@
 ##  Project Overview  
 This project was created as part of my QA internship assignment to perform **API testing using Postman**.  
 It includes practical work with multiple HTTP methods, variable handling, scripting, assertions, and API chaining.
-***NOTE***: I have used another api for testing as the one that was provided was giving "Misiing Authrorization header so upon confirming with mentors i selected other one.
+***NOTE***: I have used another api for testing as the one that was provided was giving "Missing Authrorization header so upon confirming with mentors i selected other one.
 
 ---
 
