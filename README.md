@@ -1,7 +1,7 @@
 # Postman API Testing Assignment  
 **By:** Arisha Mumtaz (2312358)  
 **Course:** QA Internship Project  
-**Submission Date:** 17th October 2025  
+**Submission Date:** 16th October 2025  
 
 ---
 
